@@ -1,0 +1,14 @@
+C:\Users\ONUR\Desktop\DesingPatterns\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\ONUR\Desktop\DesingPatterns\Singleton\bin\Debug\Singleton.exe
+C:\Users\ONUR\Desktop\DesingPatterns\Singleton\bin\Debug\Singleton.pdb
+C:\Users\ONUR\Desktop\DesingPatterns\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+C:\Users\ONUR\Desktop\DesingPatterns\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\Desktop\DesingPatterns\Singleton\obj\Debug\Singleton.exe
+C:\Users\ONUR\Desktop\DesingPatterns\Singleton\obj\Debug\Singleton.pdb
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DesingPatterns\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DesingPatterns\Singleton\bin\Debug\Singleton.exe
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DesingPatterns\Singleton\bin\Debug\Singleton.pdb
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DesingPatterns\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DesingPatterns\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DesingPatterns\Singleton\obj\Debug\Singleton.exe
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DesingPatterns\Singleton\obj\Debug\Singleton.pdb
