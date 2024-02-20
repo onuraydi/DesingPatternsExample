@@ -1,0 +1,10 @@
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DesingPatterns\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DesingPatterns\DependencyInjection\bin\Debug\DependencyInjection.exe
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DesingPatterns\DependencyInjection\bin\Debug\DependencyInjection.pdb
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DesingPatterns\DependencyInjection\obj\Debug\DependencyInjection.csproj.AssemblyReference.cache
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DesingPatterns\DependencyInjection\obj\Debug\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DesingPatterns\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DesingPatterns\DependencyInjection\obj\Debug\DependencyInjection.pdb
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DesingPatterns\DependencyInjection\bin\Debug\Ninject.dll
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DesingPatterns\DependencyInjection\bin\Debug\Ninject.xml
+C:\Users\ONUR\Desktop\C# Dili Dökümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DesingPatterns\DependencyInjection\obj\Debug\DependencyInjection.csproj.CopyComplete
